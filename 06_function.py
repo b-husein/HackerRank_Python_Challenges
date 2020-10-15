@@ -1,7 +1,6 @@
 def is_leap(year):
     leap = False
 
-    # Write your logic here
     if year % 4 == 0 and not year % 100 == 0:
         leap = True
 
@@ -9,6 +8,5 @@ def is_leap(year):
         leap = True
 
     return leap
-
 
 year = int(input())
