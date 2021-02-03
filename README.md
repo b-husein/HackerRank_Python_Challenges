@@ -1,7 +1,5 @@
 # HackerRank_Python_Challenges
 
-Visit my HackerRank profile [here;](https://www.hackerrank.com/b_husein?hr_r=1)
-
 ## Features
 
 - All solutions for Gold Badge in Python on HackerRank. ⚡
